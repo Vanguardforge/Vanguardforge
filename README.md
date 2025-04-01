@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vanguardforge
 - 👀 I’m interested in ... Learning
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... TypeScript
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He/Him
